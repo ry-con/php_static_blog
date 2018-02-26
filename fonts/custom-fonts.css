@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'england_hand_db_reg';
+  src: url('england-webfont.eot');
+  src: url('england-webfont.eot?#iefix') format('embedded-opentype'),
+  url('england-webfont.woff2') format('woff2'),
+  url('england-webfont.woff') format('woff'),
+  url('england-webfont.ttf') format('truetype'),
+  url('england-webfont.svg#england_hand_dbregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'clear_sans_light_reg';
+  src: url('clearsans-light-webfont.eot');
+  src: url('clearsans-light-webfont.eot?#iefix') format('embedded-opentype'),
+  url('clearsans-light-webfont.woff2') format('woff2'),
+  url('clearsans-light-webfont.woff') format('woff'),
+  url('clearsans-light-webfont.ttf') format('truetype'),
+  url('clearsans-light-webfont.svg#clear_sans_lightregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'cardo_regular';
+  src: url('cardo-regular-webfont.eot');
+  src: url('cardo-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  url('cardo-regular-webfont.woff2') format('woff2'),
+  url('cardo-regular-webfont.woff') format('woff'),
+  url('cardo-regular-webfont.ttf') format('truetype'),
+  url('cardo-regular-webfont.svg#cardoregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
